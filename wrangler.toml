@@ -1,0 +1,6 @@
+name = "cors-media-proxy"
+main = "src/index.js"
+compatibility_date = "2026-05-29"
+
+[vars]
+# Optional: Add environmental variables here if needed later
